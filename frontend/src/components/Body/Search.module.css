@@ -1,0 +1,21 @@
+.form{
+    display: flex;
+    margin: 50px 0px;
+    align-items: center;
+    height: 100%;
+}
+.form input{
+    padding: 15px 20px;
+    outline: none;
+    border: none;
+    box-shadow: 3px 4px 6px rgb(221, 220, 220);
+    width: 40%;
+    font-size: 1.2rem;
+    color: rgb(54, 52, 52);
+}
+.form button{
+    width: 10%;
+    height: 2.5em;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+}

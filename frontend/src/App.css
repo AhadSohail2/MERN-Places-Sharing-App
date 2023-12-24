@@ -1,0 +1,8 @@
+.container{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: auto;
+  }
+html{
+  overflow-x: hidden;
+}

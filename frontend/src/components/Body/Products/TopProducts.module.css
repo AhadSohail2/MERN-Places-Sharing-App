@@ -1,0 +1,12 @@
+.TopProductsContainer{
+    margin: 60px 0px;
+}
+
+.TopProducts{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    row-gap: 100px;
+    column-gap: 100px;
+    justify-content: space-between;
+    width: 100%;
+}

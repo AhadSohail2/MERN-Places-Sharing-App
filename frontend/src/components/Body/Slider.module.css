@@ -1,0 +1,8 @@
+.slides{
+    display: flex;
+    overflow: hidden;
+}
+.slide img{
+    width: 100vw;
+    transition: all 1s ease-in-out;
+}
